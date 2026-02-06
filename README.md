@@ -9,3 +9,5 @@ git push
 ```
 ## Nota:
 si no me dice quien soy, entonces reiniciamos
+## prueva de reinicio de pc:
+hola
