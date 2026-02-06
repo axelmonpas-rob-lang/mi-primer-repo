@@ -11,3 +11,11 @@ git push
 si no me dice quien soy, entonces reiniciamos
 ## prueva de reinicio de pc:
 hola
+# Python
+una varablie en python es como sugue:
+```python
+nombre = "christian"
+numero = 777
+flotante = 3.1416
+booleano = True
+```
