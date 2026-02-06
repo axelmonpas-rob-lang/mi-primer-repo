@@ -14,7 +14,7 @@ hola
 # Python
 una varablie en python es como sugue:
 ```python
-nombre = "christian"
+nombre = "Aaron"
 numero = 777
 flotante = 3.1416
 booleano = True
